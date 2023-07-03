@@ -10,7 +10,6 @@
 
 ## 🎥 Demo
 
----
 
 https://github.com/oubotong/EZ-chatbot/assets/26356127/971eca4b-e410-4dab-904a-c1043df28d51
 
@@ -39,6 +38,20 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 💖 Show your support
 
 Please give this project a ⭐️ if it has helped you!
+
+## 🚀 Future Plans
+
+We are constantly working to improve the EZ-chatbot and add new features to make it even better. Here's a sneak peek at what's on our roadmap:
+
+- [ ] Integrate with Langchain to handle knowledge-based queries (Pdf, Doc, SQL database...)
+- [ ] Support various models (Vicuna, Falcon...)
+- [ ] Add STT translation when asking questions through microphone
+
+Stay tuned for more updates!
+
+> Please note: These are planned features and improvements and are subject to change. The roadmap does not represent a commitment, obligation, or promise to deliver any product, code, or functionality.
+
+
 
 
 <p align="center">

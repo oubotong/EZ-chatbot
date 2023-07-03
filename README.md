@@ -41,7 +41,7 @@ Please give this project a ⭐️ if it has helped you!
 
 ## 🚀 Future Plans
 
-We are constantly working to improve the EZ-chatbot and add new features to make it even better. Here's a sneak peek at what's on our roadmap:
+I am constantly working to improve the EZ-chatbot and add new features to make it even better. Here's a sneak peek at what's on the roadmap:
 
 - [ ] Integrate with Langchain to handle knowledge-based queries (Pdf, Doc, SQL database...)
 - [ ] Support various models (Vicuna, Falcon...)

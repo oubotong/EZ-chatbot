@@ -54,9 +54,7 @@ def main():
 
     if "messages" not in st.session_state:
         st.session_state.messages = [
-            {"role": "system", "content": """You are a professional software developer and you will be answering technical 
-                        questions in a professional manner. Still, you need to answer as brief as enough to cover the
-                        important knowledge that the interviewers want to know."""}
+            {"role": "system", "content": """You are a professional AI assistant whose name is J.A.R.V.I.S."""}
         ]
     
     displayHistoryMsgs()

@@ -39,17 +39,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Please give this project a ⭐️ if it has helped you!
 
-## 🚀 Future Plans
-
-I am constantly working to improve the EZ-chatbot and add new features to make it even better. Here's a sneak peek at what's on the roadmap:
-
-- [ ] Integrate with Langchain to handle knowledge-based queries (Pdf, Doc, SQL database...)
-- [ ] Support various models (Vicuna, Falcon...)
-- [ ] Add STT translation when asking questions through microphone
-
-Stay tuned for more updates!
-
-> Please note: These are planned features and improvements and are subject to change. The roadmap does not represent a commitment, obligation, or promise to deliver any product, code, or functionality.
 
 
 
